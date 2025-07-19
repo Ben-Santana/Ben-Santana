@@ -1,4 +1,8 @@
-## Hi there 👋
+## 👋
+
+Hi! I'm currently a student at Worcester Polytechnic Institute (WPI) studying Computer Science. My personal projects mainly focus on implementing emerging tech in new and meaningful ways.
+
+If you'd like to chat, feel free to reach out to me: basantana@wpi.edu
 
 <!--
 **Ben-Santana/Ben-Santana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
