@@ -4,6 +4,8 @@ Hi! I'm currently a student at Worcester Polytechnic Institute (WPI) studying Co
 
 If you'd like to chat, feel free to reach out to me: basantana@wpi.edu
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://basantana.com)
+
 <!--
 **Ben-Santana/Ben-Santana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
